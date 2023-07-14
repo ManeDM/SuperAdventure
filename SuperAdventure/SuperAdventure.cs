@@ -11,6 +11,9 @@ namespace SuperAdventure
 
             _player = new Player(10, 10, 20, 0, 1);
 
+            Location test1 = new Location(1, "Your House", "This is your house");
+            Location test2 = new Location(1, "Your House", "This is your house", null, null, null);
+
 
             LblHitPoints.Text = _player.CurrentHitPoints.ToString();
             LblGold.Text = _player.Gold.ToString();
