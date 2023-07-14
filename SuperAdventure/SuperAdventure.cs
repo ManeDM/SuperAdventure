@@ -11,12 +11,10 @@ namespace SuperAdventure
 
             _player = new Player();
 
-           
-
+            _player.CurrentHitPoints = 10;
+            _player.MaximumHitPoints = 10;
             _player.Gold = 20;
-
-           
-
+            _player.ExperiencePoints = 0;
             _player.Level = 1;
 
             LblHitPoints.Text = _player.CurrentHitPoints.ToString();
