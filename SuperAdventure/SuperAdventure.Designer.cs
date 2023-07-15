@@ -154,6 +154,7 @@
             BtnUseWeapon.TabIndex = 11;
             BtnUseWeapon.Text = "Use";
             BtnUseWeapon.UseVisualStyleBackColor = true;
+            BtnUseWeapon.Click += BtnUseWeapon_Click;
             // 
             // BtnUsePotion
             // 
@@ -163,6 +164,7 @@
             BtnUsePotion.TabIndex = 12;
             BtnUsePotion.Text = "Use";
             BtnUsePotion.UseVisualStyleBackColor = true;
+            BtnUsePotion.Click += BtnUsePotion_Click;
             // 
             // BtnNorth
             // 
@@ -182,6 +184,7 @@
             BtnEast.TabIndex = 14;
             BtnEast.Text = "East";
             BtnEast.UseVisualStyleBackColor = true;
+            BtnEast.Click += BtnEast_Click;
             // 
             // BtnSouth
             // 
@@ -191,6 +194,7 @@
             BtnSouth.TabIndex = 15;
             BtnSouth.Text = "South";
             BtnSouth.UseVisualStyleBackColor = true;
+            BtnSouth.Click += BtnSouth_Click;
             // 
             // BtnWest
             // 
@@ -200,6 +204,7 @@
             BtnWest.TabIndex = 16;
             BtnWest.Text = "West";
             BtnWest.UseVisualStyleBackColor = true;
+            BtnWest.Click += BtnWest_Click;
             // 
             // RtbLocation
             // 

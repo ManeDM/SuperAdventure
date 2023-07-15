@@ -25,5 +25,30 @@ namespace SuperAdventure
         {
 
         }
+
+        private void BtnWest_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnSouth_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnEast_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnUseWeapon_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnUsePotion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
