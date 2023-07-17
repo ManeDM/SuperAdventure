@@ -1,0 +1,12 @@
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\bin\Release\net7.0\Engine.deps.json
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\bin\Release\net7.0\Engine.dll
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\bin\Release\net7.0\Engine.pdb
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.csproj.AssemblyReference.cache
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.AssemblyInfoInputs.cache
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.AssemblyInfo.cs
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.dll
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\refint\Engine.dll
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\Engine.pdb
+C:\Users\mane6\OneDrive\Escritorio\PROGRAMACION\NET\SuperAdventure\SuperAdventure\Engine\obj\Release\net7.0\ref\Engine.dll
